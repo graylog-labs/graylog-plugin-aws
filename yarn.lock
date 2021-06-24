@@ -5388,11 +5388,11 @@ graceful-fs@^4.2.4:
     "@babel/preset-env" "7.13.10"
     "@babel/preset-typescript" "7.13.0"
     create-react-class "15.7.0"
-    eslint-config-graylog "file:../../../.cache/yarn/v6/npm-graylog-web-plugin-4.1.0-SNAPSHOT-e0d5cee0-837f-409d-84e5-9a3bafc8c70c-1623844889475/node_modules/eslint-config-graylog"
+    eslint-config-graylog "file:../graylog2-server/graylog2-web-interface/packages/eslint-config-graylog"
     formik "2.2.6"
     html-webpack-plugin "^4.2.0"
     javascript-natural-sort "0.7.1"
-    jest-preset-graylog "file:../../../.cache/yarn/v6/npm-graylog-web-plugin-4.1.0-SNAPSHOT-e0d5cee0-837f-409d-84e5-9a3bafc8c70c-1623844889475/node_modules/jest-preset-graylog"
+    jest-preset-graylog "file:../graylog2-server/graylog2-web-interface/packages/jest-preset-graylog"
     jquery "3.5.1"
     moment "2.29.1"
     moment-timezone "0.5.31"
@@ -5406,7 +5406,7 @@ graceful-fs@^4.2.4:
     react-router-dom "5.2.0"
     reflux "0.2.13"
     styled-components "5.2.3"
-    stylelint-config-graylog "file:../../../.cache/yarn/v6/npm-graylog-web-plugin-4.1.0-SNAPSHOT-e0d5cee0-837f-409d-84e5-9a3bafc8c70c-1623844889475/node_modules/stylelint-config-graylog"
+    stylelint-config-graylog "file:../graylog2-server/graylog2-web-interface/packages/stylelint-config-graylog"
     typescript "4.2.3"
     webpack "4.44.2"
     webpack-cleanup-plugin "0.5.1"
@@ -5580,9 +5580,9 @@ homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.6.0.tgz#23235b29ab230c576aab0d4f13fc046b0b038222"
-  integrity sha512-lIbgIIQA3lz5XaB6vxakj6sDHADJiZadYEJB+FgA+C4nubM1NwcuvUr9EJPmnH1skZqpqUzWborWo8EIUi0Sdw==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hosted-git-info@^4.0.1:
   version "4.0.2"
