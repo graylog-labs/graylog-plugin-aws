@@ -52,7 +52,7 @@
         <maven.deploy.skip>true</maven.deploy.skip>
         <maven.site.skip>true</maven.site.skip>
         <graylog.version>4.2.0-SNAPSHOT</graylog.version>
-        <aws-java-sdk.version>1.11.935</aws-java-sdk.version>
+        <aws-java-sdk.version>1.12.25</aws-java-sdk.version>
         <aws-kinesis-client.version>1.10.0</aws-kinesis-client.version>
     </properties>
 
